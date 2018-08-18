@@ -9,4 +9,3 @@ function linearSearch(array,target)
 	}
 	return -1;                                                 
 }
-linearSearch([1,4,6,12,18,22,27,33,35,38,40,44,49,50,52], 52);
